@@ -1,0 +1,42 @@
+/* General styling for body */
+body {
+    font-family: Arial, sans-serif;  /* Different Font */
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Styling header with a class */
+.title {
+    color: #333;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+/* Styling paragraph with an ID */
+#intro {
+    font-size: 1.2rem;
+    color: #555;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Styling an image */
+.styled-image {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+    border: 3px solid #007bff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.9rem;
+    color: #777;
+}
